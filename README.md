@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Vladislav
 
-<!--
-**dLRWee/dLRWee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+* 📚 **Status:** Computer Science student passionate about production-ready backend development.
+* 🎯 **Career Goal:** Becoming a proficient Java / Spring Developer.
+* ⚙️ **My Philosophy:** Writing clean, efficient code and understanding software from low-level execution to high-level architecture.
+* 🕹️ **Hobbies:** Experimenting with **C** for low-level concepts and building simple 2D games using **C++ & SFML**.
 
-Here are some ideas to get you started:
+### 🏆 Completed Milestones & Education
+* 🎓 **Harvard's CS50x:** Solid foundation in Computer Science, memory management, and algorithms.
+* ☕ **University of Helsinki's Java MOOC:** Deep dive into Object-Oriented Programming, collections, and Java best practices.
+* 📖 **Effective Java (by Joshua Bloch):** Read and applied best practices for robust, maintainable, and idiomatic Java code.
+* 🌐 **Self-Education:** Consistently learning through engineering blogs, technical articles, and detailed video tutorials.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Short-Term Goals (What I'm Learning Next)
+* 🗺️ **Design Patterns:** Mastering SOLID principles and GoF patterns to transition into clean enterprise design.
+* 📊 **SQL & Databases:** Deep diving into relational databases (PostgreSQL/MySQL), indexes, and query design.
+* 🍃 **Spring Ecosystem:** Learning Core Spring, Spring Boot, and dependency injection mechanisms.
+
+### 🛠️ Tech Stack & Tools
+* **Primary:** Core Java, OOP, Maven, Git & GitHub
+* **Basic Familiarity:** Python, C, C++, SFML
+
+### 📬 Let's Connect!
+* **Email:** juicy9chka@gmail.com
