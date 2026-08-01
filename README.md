@@ -3,7 +3,6 @@
 ### 🎓 About Me
 * 📚 **Status:** Computer Science student passionate about production-ready backend development.
 * 🎯 **Career Goal:** Becoming a proficient Java / Spring Developer.
-* ⚙️ **My Philosophy:** Writing clean, efficient code and understanding software from low-level execution to high-level architecture.
 * 🕹️ **Hobbies:** Experimenting with **C** for low-level concepts and building simple 2D games using **C++ & SFML**.
 
 ### 🏆 Completed Milestones & Education
@@ -18,7 +17,7 @@
 * 🍃 **Spring Ecosystem:** Learning Core Spring, Spring Boot, and dependency injection mechanisms.
 
 ### 🛠️ Tech Stack & Tools
-* **Primary:** Core Java, OOP, Maven, Git & GitHub
+* **Primary:** Core Java, JavaFX, JUnit, Mockito, OOP, Maven, Git & GitHub
 * **Basic Familiarity:** Python, C, C++, SFML
 
 ### 📬 Let's Connect!
