@@ -20,5 +20,5 @@
 * **Primary:** Core Java, JavaFX, JUnit, Mockito, OOP, Maven, Git & GitHub
 * **Basic Familiarity:** Python, C, C++, SFML
 
-### 📬 Let's Connect!
+### 📬 Contacts
 * **Email:** juicy9chka@gmail.com
