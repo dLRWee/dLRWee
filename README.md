@@ -2,6 +2,21 @@
 
 I'm a college student and my goal is to become a **Spring** developer.
 
+## Tech Stack 
+
+- Core Java
+- Design Patterns
+
+## Familiar with
+
+- JUnit
+- Mockito
+- C
+- C++
+- JavaFX
+- Bash
+- Git
+
 ## Courses completed
 
 - CS 50
