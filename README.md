@@ -1,15 +1,14 @@
 # 👋 Hi! 
 
-I'm a college student and my goal is to become a **Spring** developer.
+I'm a college student and my goal is to become a 🍃**Spring** developer.
 
-## Tech Stack 
+## ⚒️ Tech Stack 
 
-- Core Java
-- Design Patterns
-
-## Familiar with
-
+- Java
 - JUnit
+
+## 💡 Familiar with
+
 - Mockito
 - C
 - C++
@@ -17,17 +16,17 @@ I'm a college student and my goal is to become a **Spring** developer.
 - Bash
 - Git
 
-## Courses completed
+## 💻 Courses completed
 
 - CS 50
 - MOOC Java Programming
 
-## Books read
+## 📖 Books read
 
 - Effective Java
 - Head First Design Patterns
 
-## Current goals
+## 🎯 Current goals
 
 - [ ] Read Head First Git
 - [ ] Learn SQL basics
