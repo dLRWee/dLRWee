@@ -6,10 +6,11 @@ I'm a college student and my goal is to become a 🍃**Spring** developer.
 
 - Java
 - JUnit
+- Mockito
+- AssertJ
 
 ## 💡 Familiar with
 
-- Mockito
 - C
 - C++
 - JavaFX
